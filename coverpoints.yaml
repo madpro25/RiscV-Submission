@@ -1,5 +1,0 @@
-<label>:
-	csr_comb:
-		misa && (0x100) == 0x100
-		misa && (0x1000) == 0x1000
-		misa && (0x36ADE82) == 0x00
